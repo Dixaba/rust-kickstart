@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "serayuzgur.crates",
+    "tamasfe.even-better-toml",
+    "rust-lang.rust",
+    "belfz.search-crates-io",
+    "spmeesseman.vscode-taskexplorer"
+  ]
+}
