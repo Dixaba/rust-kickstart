@@ -2,7 +2,7 @@
   "recommendations": [
     "serayuzgur.crates",
     "tamasfe.even-better-toml",
-    "rust-lang.rust",
+    "matklad.rust-analyzer",
     "belfz.search-crates-io",
     "spmeesseman.vscode-taskexplorer"
   ]
